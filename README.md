@@ -32,21 +32,19 @@ project_aging/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/VlatkoPet/ProjectAging.git
-   cd project_aging
+   git clone https://github.com/your-username/intelligentcontract-tech-test.git
+   cd intelligentcontract-tech-test
 
 2. Install the dependencies using Composer:
 
-``` composer install ```
+```composer install
+```
 
 Running the Application
 
-- After you clone the project locally
+- run the following command in the root of the application:
 
-- open the terminal and go to your project
-- run the following command at the root of the application:
-
-```cd project_aging/public```
+```cd public```
 
 ```php index.php```
 
