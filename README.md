@@ -1,8 +1,8 @@
-# Intelligent Contract Tech Test
+# ProjectAging
 
 Here's a simple README file that explains your application and how to run it:
 
-This application simulates an inventory management system with various types of items that age over time. Each item implements a specific aging strategy based on its characteristics. The main entry point of the application is the `public/index.php` file, which runs the aging logic for a set of items over a specified number of days.
+This application simulates an inventory management system with various items that age over time. Each item implements a specific aging strategy based on its characteristics. The application's main entry point is the `public/index.php` file, which runs the aging logic for a set of items over a specified number of days.
 
 ## Project Structure
 project_aging/
@@ -32,19 +32,18 @@ project_aging/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/intelligentcontract-tech-test.git
-   cd intelligentcontract-tech-test
+   git clone https://github.com/VlatkoPet/ProjectAging.git
+   
 
 2. Install the dependencies using Composer:
 
-```composer install
-```
+``` composer install ```
 
 Running the Application
 
-- run the following command in the root of the application:
+- run the following command at the root of the application:
 
-```cd public```
+```cd project_aging/public```
 
 ```php index.php```
 
