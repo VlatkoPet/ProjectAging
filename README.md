@@ -41,10 +41,10 @@ project_aging/
 
 Running the Application
 
-- After you clone the project localy
+- After you clone the project locally
 
-- open terminal and go to your project
-- run the following command in the root of the application:
+- open the terminal and go to your project
+- run the following command at the root of the application:
 
 ```cd project_aging/public```
 
