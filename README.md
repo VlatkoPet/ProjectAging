@@ -32,7 +32,7 @@ project_aging/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/intelligentcontract-tech-test.git
+   git clone https://github.com/VlatkoPet/ProjectAging.git
    cd project_aging
 
 2. Install the dependencies using Composer:
