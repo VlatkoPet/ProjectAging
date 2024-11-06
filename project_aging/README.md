@@ -39,12 +39,21 @@ project_aging/
 
 ``` composer install ```
 
-Running the Application
+## Running the Application
+
+- after you clone the application, change the directory to the project folder
+``` cd ProjectAging```
+
+- go to the root of the application
+``` cd project_aging```
+
+- run the dependencies
+``` composer install ```
 
 - run the following command at the root of the application:
+``` cd public```
 
-```cd project_aging/public```
-
+- run the application:
 ```php index.php```
 
 How It Works
