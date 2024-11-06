@@ -33,11 +33,11 @@ project_aging/
 
    ```bash
    git clone https://github.com/your-username/intelligentcontract-tech-test.git
-   cd intelligentcontract-tech-test
+   cd project_aging
 
 2. Install the dependencies using Composer:
 
-```composer install
+``` composer install
 ```
 
 Running the Application
