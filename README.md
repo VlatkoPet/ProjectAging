@@ -41,9 +41,12 @@ project_aging/
 
 Running the Application
 
+- After you clone the project localy
+
+- open terminal and go to your project
 - run the following command in the root of the application:
 
-```cd public```
+```cd project_aging/public```
 
 ```php index.php```
 
