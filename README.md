@@ -37,8 +37,7 @@ project_aging/
 
 2. Install the dependencies using Composer:
 
-``` composer install
-```
+``` composer install ```
 
 Running the Application
 
